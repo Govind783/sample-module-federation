@@ -1,0 +1,8 @@
+{
+  "name": "mfe-dashboard",
+  "private": true,
+  "dependencies": {
+    "nanoid": "^5.0.7",
+    "react-router-dom": "^6.30.3"
+  }
+}

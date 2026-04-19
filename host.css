@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Scan all MFE source dirs + shared code for class names */
+@source "./mfe/header/src";
+@source "./mfe/dashboard/src";
+@source "./shared";
